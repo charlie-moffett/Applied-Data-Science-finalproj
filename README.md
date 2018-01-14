@@ -1,7 +1,9 @@
 ## News Coverage on Williamsburg, Brooklyn and its Underlying Textual Themes
 
 A Topic Modeling Study Using LDA and NMF
+
 Samantha Currie, Lingyu Jin, Charlie Moffett
+
 New York University
 
 ### ABSTRACT
